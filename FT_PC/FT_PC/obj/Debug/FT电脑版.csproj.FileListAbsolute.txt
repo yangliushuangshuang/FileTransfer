@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.exe.config
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.exe
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.pdb
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.mainForm.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.Properties.Resources.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.exe
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.pdb
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.connectWindows.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.historyWindows.resources

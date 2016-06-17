@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item android:id="@+id/action_fileAccept_pc_ph"
+        android:icon="@drawable/pc_ph_rec"
+        android:title="@string/menu_file_accept_formPC"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_fileAccept"
+        android:icon="@drawable/ph_ph_rec"
+        android:title="@string/menu_file_accept_fromPh"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_new_folder"
+        android:title="@string/menu_new_folder"
+        android:orderInCategory="100"
+        android:icon="@drawable/add_folder"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_file_paste"
+        android:title="@string/menu_file_paste"
+        android:orderInCategory="100"
+        android:icon="@drawable/paste"
+        app:showAsAction="never"/>
+</menu>

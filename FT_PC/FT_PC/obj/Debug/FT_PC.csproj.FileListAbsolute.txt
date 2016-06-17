@@ -1,0 +1,37 @@
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.exe.config
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.exe
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\bin\Debug\FT电脑版.pdb
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.connectWindows.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.mainForm.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.historyWindows.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.Properties.Resources.resources
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT_PC.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.exe
+\\mac\home\documents\visual studio 2013\Projects\FT电脑版\FT电脑版\obj\Debug\FT电脑版.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\FT_PC\FT_PC\bin\Debug\FT电脑版.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\FT_PC\FT_PC\obj\Debug\FT电脑版.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\FT_PC\FT_PC\obj\Debug\FT电脑版.pdb
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.exe.config
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT电脑版.exe
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT电脑版.pdb
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.exe
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.pdb
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.connectWindows.resources
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.mainForm.resources
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.historyWindows.resources
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.Properties.Resources.resources
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\FT_PC\FT_PC\FT_PC\bin\Debug\thoughtworks.qrcode.dll
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.exe.config
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT电脑版.exe
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT电脑版.pdb
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.exe
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\bin\Debug\FT电脑版.pdb
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.connectWindows.resources
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.mainForm.resources
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.historyWindows.resources
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.Properties.Resources.resources
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\FT\FT_PC\FT_PC\FT_PC\obj\Debug\FT_PC.csprojResolveAssemblyReference.cache
